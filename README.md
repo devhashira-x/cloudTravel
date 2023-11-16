@@ -1,7 +1,7 @@
 # cloudTravel
 
-**Project description
-Discover diverse corners of the universe and catch a glimpse of its landscapes🌎.
+
+**Discover diverse corners of the universe and catch a glimpse of its landscapes🌎.**
 
 ## Table of contents
 
